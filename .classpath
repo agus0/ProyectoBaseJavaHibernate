@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Javier/MEGAsync/UNLA/3 - Tercer Año/Orientación a Objetos 2/Otros/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Javier/MEGAsync/UNLA/3 - Tercer Año/Orientación a Objetos 2/Otros/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Javier/MEGAsync/UNLA/3 - Tercer Año/Orientación a Objetos 2/Otros/lib/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Javier/MEGAsync/UNLA/3 - Tercer Año/Orientación a Objetos 2/Otros/lib/hibernate-core-4.1.9.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Javier/MEGAsync/UNLA/3 - Tercer Año/Orientación a Objetos 2/Otros/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Javier/MEGAsync/UNLA/3 - Tercer Año/Orientación a Objetos 2/Otros/lib/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Javier/MEGAsync/UNLA/3 - Tercer Año/Orientación a Objetos 2/Otros/lib/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Javier/MEGAsync/UNLA/3 - Tercer Año/Orientación a Objetos 2/Otros/lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Javier/MEGAsync/UNLA/3 - Tercer Año/Orientación a Objetos 2/Otros/lib/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
